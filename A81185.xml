@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A curb for Pegasus, or, Observations on The observator. Number 10. Dated Munday July 6th. 1696. : In relation to the people called Quakers.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81185</idno>
+            <idno type="STC">Wing C7619</idno>
+            <idno type="STC">ESTC R171661</idno>
+            <idno type="EEBO-CITATION">45789265</idno>
+            <idno type="OCLC">ocm 45789265</idno>
+            <idno type="VID">172576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81185)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172576)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2639:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A curb for Pegasus, or, Observations on The observator. Number 10. Dated Munday July 6th. 1696. : In relation to the people called Quakers.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Observator (London, England : 1682)</term>
+               <term>Pegasus (London, England : 1696)</term>
+               <term>Society of Friends --  England --  Apologetic works.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:172576:1" rendition="simple:additions"/>
+            <head>A CURB FOR PEGASUS OR OBSERVATIONS ON THE OBSERVATOR, <hi>Number</hi> 10. Dated <hi>Munday July</hi> 6th. 1696.</head>
+            <head type="sub">In Relation to the People called QUAKERS.</head>
+            <p>HAD the Authors of this Obſervator wanted Work, as it ſhould ſeem they do, or elſe would hardly have vented ſuch a piece of Im<g ref="char:EOLhyphen"/>pertinency: They might have been better employed in anſwering ſome Papers, intitled, <hi>The New Athenians, no Noble Bereans,</hi> formerly Publiſhed in reply to ſome A<g ref="char:EOLhyphen"/>thenian Mercuries reflecting upon the Quakers and their Principles; and which, though the Authors of the ſaid <hi>Mercuries</hi> have promiſed to anſwer, they have never yet thought fit to perform. And this might be the more juſtly expected from theſe Men, ſince they are reputed to be the ſame who formerly wrote thoſe, or at leaſt Aſſiſtants therein; but whether ſo or no, yet theſe promote the ſame Work ſtill, tho' now under a different diſguiſe.</p>
+            <p>However, be they who they will that ſcribled this Pamphlet, I find the <hi>Quakers</hi> Lot no worſe, than the <hi>Apoſtles and Primitive Chriſtians</hi> Lot was from the Men of their Generation, as it is expreſt, 2 <hi>Cor.</hi> 6.8. <hi>By honour and diſhonour, by evil report and good report, as Deceivers and yet True:</hi> But be it known unto all, that, <hi>This we confeſs unto them, that after the way which they</hi> (and ſuch as they are) <hi>call Hereſie, ſo worſhip we the God of our Fathers, believing all things which are written in the Law and the Prophets, and have hope to<g ref="char:EOLhyphen"/>wards God, which they themſelves alſo allow</hi> (however we be belyed) <hi>that there ſhall be a Reſurrection of the Dead, both of the Juſt and the <g ref="char:V">Ʋ</g>njuſt. And herein do we exerciſe our ſelves, to have always a Conſcience void of offence towards God, and towards Men,</hi> Acts 24.14. And thus ſtanding here, we can (as to what con<g ref="char:EOLhyphen"/>cerns our ſelves) ſlight all envious Blaſts, let them come from what Quarter they will; for having God our Juſtifier, <hi>Who are they who condemn?</hi> Rom. 8.33, 34. Yet le<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt from a profound ſilence, ſome inconſi<g ref="char:EOLhyphen"/>derate Perſons might conclude a Guilt on our Part, to ſtop the Mouths of theſe and ſuch like Gainſayers, whoſe endeavour is to reproach the Truth we pro<g ref="char:EOLhyphen"/>feſs, thereby to diſcourage others from entertaining any good Opinion either of it or us, it is ſometimes requiſite to wipe off the Dirt we are beſpattered with, which is the deſign of theſe <hi>Obſervations,</hi> to which I now proceed.</p>
+            <p n="1">
+               <hi>Obſ.</hi> 1. Theſe Men are beſides their Province, for Religion and Religious Societies was not the propo<g ref="char:EOLhyphen"/>ſed end of their <hi>Obſervators,</hi> as the Reader may ſee in <hi>Pegaſus, Numb.</hi> 1. Wherein they propoſe their Deſign, <hi>To furniſh Inteligence of News, and their Ob<g ref="char:EOLhyphen"/>ſervator, to enable thoſe who are liable to be impoſed up<g ref="char:EOLhyphen"/>on, to make a truer Judgment of the State of Affairs,</hi> &amp;c. Conſequently ther <hi>Flying Horſe</hi> has nothing to do with <hi>Diſputes</hi> about Religion: But they have al<g ref="char:EOLhyphen"/>tered their Topicks, and have medled with what (I may in ſome Sence ſay as in relation to ſuch Pam<g ref="char:EOLhyphen"/>phlets) are things too high for them; no wonder then, they have over-ſhot themſelves.</p>
+            <p n="2">
+               <hi>Obſ.</hi> 2. They repreent the Caſe, as <hi>Diſputes be<g ref="char:EOLhyphen"/>tween G. K. and the Quakers,</hi> whereas it is well known the Perſons ſunmoned by <hi>G. K.</hi> refuſed to Anſwer his Summons: demurring to his Authority of appointing ſuch a Meeting for a Diſpute without their Conſents, and hoſe <hi>Quakers</hi> who ſpake any thing there, pretended to nothing of a Diſpute. Therefore, if that Meeting could in any Sence be called by ſuch a Name, it might more properly be termed a Diſpute between <hi>George</hi> and <hi>Keith,</hi> then be<g ref="char:EOLhyphen"/>tween <hi>G. K.</hi> and the <hi>Quakers.</hi>
+            </p>
+            <p n="3">
+               <hi>Obſ.</hi> 3. They have quoted an uncertain Author (as I may juſtly call him) <hi>Rich. Baxter;</hi> who tho' he hath much wronged us, being dead is unable either to prove upon us what he hath alledged againſt us, or retract what he could not prove. For which Reaſon, as one that diſlikes Trampling upon the
+<pb facs="tcp:172576:2" rendition="simple:additions"/>Graves of the Dead; I ſhall drop this Deceaſed Per<g ref="char:EOLhyphen"/>ſon, and direct my Speech to theſe <hi>Obſervatorians,</hi> who by thus quoting him of eſpouſe the Cauſe, and are in ſome Meaſure accountable therefore.</p>
+            <p n="4">
+               <hi>Obſ.</hi> 4. They mix with the Quakers, <hi>The Vaniſts, Seckers, Ranters,</hi> and <hi>B<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hmeniſts,</hi> which is unfair, and ſeems to be deſigned to amuſe People, as if they were all of a ſtamp; whereas many, nay (I believe) moſt of the <hi>Quakers</hi> know not what Tenets thoſe others held, conſequently unaccountable there<g ref="char:EOLhyphen"/>fore: But upon this here are <hi>Miracles</hi> inſtanced, to manifeſt that <hi>Divine Vengeance</hi> fell upon the aforeſaid, and is a ſtroke directly levelled at them; that by join<g ref="char:EOLhyphen"/>ing the <hi>Quakers</hi> to thoſe, they may ſideways ſmite theſe; as much as to ſay, they deſerve the like, but <hi>Caveant Authores.</hi>
+            </p>
+            <p n="5">
+               <hi>Obſ.</hi> 5. They link the <hi>Quakers</hi> with the <hi>Socinians,</hi> as <hi>Denyers of the Godhead of Chriſt.</hi> After this Rate our Adverſaries will leave us no <hi>Chriſt</hi> at all in a while; for they uſe to accuſe us as Denyers of the <hi>Humanity,</hi> and now we muſt loſe the <hi>Divinity</hi> too. What do they think we make of <hi>Chriſt,</hi> if we will have him neither <hi>God</hi> nor <hi>Man,</hi> but both Accuſati<g ref="char:EOLhyphen"/>ons are equally falſe, for we do acknowledge him to be both <hi>God and Man<g ref="char:punc">▪</g>
+               </hi> But however, by thus overdoing it, they do their own Buſineſs, their Charge being too high to be believed by any rational Men.</p>
+            <p n="6">
+               <hi>Obſ.</hi> 6. What farther they quote out of <hi>Rich. Baxter,</hi> hath in all the Branches of it; met with ſo frequent replies, that it would be but <hi>Actum Agere</hi> to add any thing here. Only thus much I ſhall ob<g ref="char:EOLhyphen"/>ſerve, That their Stock is but low, or elſe they would not Rake up ſuch old Stuff.</p>
+            <p n="7">
+               <hi>Obſ.</hi> 7. They Rank us with the <hi>Beau's, Wits and Debauchees,</hi> &amp;c. call us <hi>Contemplative Debauchees, and Preciſe Enemies to Jeſus Chriſt under the Name of Chri<g ref="char:EOLhyphen"/>ſtians,</hi> &amp;c. How the <hi>Quakers</hi> can be <hi>Preciſe and Con<g ref="char:EOLhyphen"/>templative,</hi> and yet compared with <hi>Beau's and Debau<g ref="char:EOLhyphen"/>chees</hi> is ſuch a Riddle, as is paſt their skill to unrid<g ref="char:EOLhyphen"/>dle, and truly by the ſame Method of Speech a Man might call them <hi>wiſe Fools.</hi> Then as to <hi>Chriſtianity,</hi> their Works demonſtrate they have no real Title to it, if the Apoſtle <hi>John</hi> be worthy of Credit, who ſaith. <hi>In this the Children of God are manifest, and the Children of the Devil: Whoever doth not Righteouſ<g ref="char:EOLhyphen"/>neſs, is not of God, neither he that loveth not his Brother,</hi> 1 John 3.10.</p>
+            <p n="8">
+               <hi>Obſ.</hi> 8. Their great Partiality is obſervable, in quoting <hi>G. K</hi>'s <hi>Narrative</hi> as authentick Proof, be<g ref="char:EOLhyphen"/>fore they know what anſwer will be given to it, which Evidences they are reſolved to hear of but one Ear, and upon his Aſſerting they will pawn their Credit for the Truth of wh<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t he ſays, becauſe 'tis againſt the <hi>Quakers</hi> that his Calumnies are levelled. Well! be the <hi>Quakers</hi> Faith what it will, I am ſure their Faith is wrong, or elſe their Works would be better. Are theſe your Arguments you uſe to Con<g ref="char:EOLhyphen"/>vert <hi>thoſe deluded Souls,</hi> as you call them? If theſe be the beſt you can produce, you will not have much occaſion to boaſt of them.</p>
+            <p n="9">
+               <hi>Obſ.</hi> 9. They flatter <hi>G. K.</hi> for Oppoſing the <hi>Qua<g ref="char:EOLhyphen"/>kers:</hi> But if they ſhould have occaſion to know him as much as the <hi>Quakers</hi> do, they would be as weary of him as ever the <hi>Quakers</hi> were before they caſt him out from amongſt them. For let them ſay what they will, it is not <hi>G. K's miſtaken Opinion</hi> of Perſons as <hi>G. W. W. P, &amp;c.</hi> (as they would Inſinuate) that oc<g ref="char:EOLhyphen"/>caſions this <hi>Difference,</hi> but his now oppoſing what Do<g ref="char:EOLhyphen"/>ctrines he formerly held and defended while amongſt the <hi>Quakers,</hi> and that thoſe are <hi>wicked Principles</hi> is <hi>Gratis dictum,</hi> and they that affirm muſt prove, <hi>Firſt</hi> That the Doctrines formerly held by <hi>G. K.</hi> and ſtill by the <hi>Quakers</hi> in themſelves are <hi>wicked,</hi> and <hi>ſecondly,</hi> That the <hi>Quakers</hi> hold thoſe <hi>wicked Principles</hi> they charge upon them, in this <hi>Obſervator,</hi> all which is ſtill to do as in relation to theſe Authors, and as to the Controverſie between <hi>G. K.</hi> and them, <hi>Subjudice lis eſt,</hi> therefore not yet <hi>prov'd</hi> as they ſay. Beſides if thoſe are but <hi>little Cavils</hi> (as they are pleaſed to call them) which were offered in the <hi>Paper Printed by T. S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wle,</hi> they may the more eaſily be anſwered by ſo Famous a Champion. But by the way let them take notice <hi>G. K.</hi> hath a great deal more to anſwer then that half ſheet: So that if theſe his Advocates think he hath too much work upon his hands, they may be pleaſed to aſſiſt him if they think fit.</p>
+            <p n="10">
+               <hi>Obſ.</hi> 10. Their Inſinuating as if <hi>Popiſh Emiſſaries nou<g ref="char:EOLhyphen"/>riſhed</hi> thoſe by them cited <hi>wicked Principles</hi> (which they Father upon the <hi>Quakers</hi>) amongſt us, is Idle. Our Principles and Method of Worſhip being well known by Judicious Men who are not of our Communion, to be more oppoſite to <hi>Popiſh Principles,</hi> and the <hi>Fop<g ref="char:EOLhyphen"/>piſh Ceremonial Worſhip</hi> of that Superſtitious Church, then thoſe of any <hi>Proteſtant</hi> Society beſides.</p>
+            <p>Now upon the whole, the Reader may be pleaſed to take notice, That theſe Authors offering no proof for what they aſſert againſt us, but what Sufficient exceptions lie againſt, as above, I have likewiſe of<g ref="char:EOLhyphen"/>fered no quotations out of our Books in vindication of our Principles, which if occaſion were I could produce in great number, ſufficient to wipe off the groſſeſt Calumnies that they are able to deviſe: But I love to be ſhort, eſpecially ſince brevity marrs not the cauſe I now undertake. I ſhall further add, a name<g ref="char:EOLhyphen"/>leſs Pamphlet deſerves a nameleſs Reply, and ſince they have taken a courſe thus to vent their Spleen in ſuch a Paper as is not uſual to be Publiſhed with any Authors name to it, they muſt excuſe me if I put not mine to this; In the mean time promiſing, that when they think fit to own theirs, I will not be aſhamed to own mine.</p>
+            <closer>
+               <salute>Farewell,</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed, and Sold by <hi>T. Sowle</hi> in <hi>White Hart</hi> Court in <hi>Gracious-Street,</hi> 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
